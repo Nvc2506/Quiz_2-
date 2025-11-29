@@ -11,6 +11,8 @@ Un algoritmo es un conjunto finito, ordenado y definido de pasos, instrucciones 
 es Es una modificación de un software, aplicación o sistema operativo que se lanza para corregir errores, añadir nuevas funciones, mejorar el rendimiento y, muy importante, para reforzar la seguridad del sistema
 4. 🙃 **Decimal (Número decimal)**
    Sistema de numeración que utiliza diez dígitos del 0 al 9.
+5. 😁**Algoritmo de control de carga de baterías industriales**
+Optimiza cuándo cargar o descargar baterías para máxima eficiencia energética.
    
    
 
