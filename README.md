@@ -12,6 +12,7 @@ es Es una modificación de un software, aplicación o sistema operativo que se l
 4. 🙃 **Decimal (Número decimal)**
    Sistema de numeración que utiliza diez dígitos del 0 al 9.
    
+   
 
 
 
